@@ -18,5 +18,4 @@ https://github.com/user-attachments/assets/27bac2d4-41a9-4625-b97a-aaa480c9cf8c
 | Steady-state interval | ~0.471 s | ~1.339 s |
 | Steady-state throughput | ~2.121 frames/s | ~0.747 frames/s |
 | Maximum in-flight depth | 6 | 1 |
-| Peak count (pred./ref.) | – | 35 / 35 |
-| Maximum peak error | – | 2 samples (7.8 ms) |
+
