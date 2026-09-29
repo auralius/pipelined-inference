@@ -1,0 +1,8 @@
+Required project-wide preprocessor definitions:
+
+-D NOODLE_USE_INT8
+-D NOODLE_MAX_K=9
+-D NOODLE_BUFFER_ARENA_INITIAL_BYTES=8192
+-D NOODLE_USE_NONE
+
+These flags must compile both main_nodeX.cpp and every Noodle source file.
